@@ -33,7 +33,7 @@
 **☑️ 작업환경**
 
 - **언어: 파이썬**
-- **사용 툴: Jupyter notebook, Notion, Git Hub**
+- **사용 툴: Jupyter notebook, Notion, GitHub**
 
 - **교재 및 참고자료**
     - **교재: 핸즈온 머신러닝 2판**
