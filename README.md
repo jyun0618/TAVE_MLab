@@ -4,6 +4,8 @@
 > 핸즈온 머신러닝 3판에 수록된 연습문제를 풀이한 뒤 업로드합니다.
 <br>
 
+**진행 기간** : `2025.03.15` ~ `2025.05.03`
+
 **스터디 구성원** : 김고은, 김윤서, 이지윤, 정윤주
 
 **파일 업로드 방식** : `Chapter0N/(이름)_practice.ipynb`
@@ -35,10 +37,10 @@
 - **언어: 파이썬**
 - **사용 툴: Jupyter notebook, Notion, GitHub**
 
-- **교재 및 참고자료**
-    - **교재: 핸즈온 머신러닝 3판**
-        
-        저자: 오엘리앙 제롱
+    <details>
+      <summary> <b>교재 및 참고자료 </b> </summary>
+    
+    - 교재: 핸즈온 머신러닝 3판 (오엘리앙 제롱)
         
         ![image](https://github.com/user-attachments/assets/a4a9874c-b152-4f60-84ca-be24e86211cd)
 
@@ -46,6 +48,7 @@
         [깃허브](https://github.com/rickiepark/handson-ml2)
         
     
-    - **유튜브 강의**
+    - 유튜브 강의
         
         ☑️[박해선님의 핸즈온 머신러닝 동영상 강의 참고](https://www.youtube.com/watch?v=kpuRasV_Q9k&list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb)
+    </details>
