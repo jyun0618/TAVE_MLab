@@ -35,7 +35,7 @@
 **☑️ 작업환경**
 
 - **언어: 파이썬**
-- **사용 툴: Jupyter notebook, Notion, GitHub**
+- **사용 툴: Jupyter notebook, [Notion](https://marmalade-drive-848.notion.site/TAVE_MLab-Machine-Learning-Laboratory-1b840c2de19e80358775caa4a3227c8a?pvs=4), GitHub**
 
     <details>
       <summary> <b>교재 및 참고자료 </b> </summary>
